@@ -2,7 +2,6 @@
 
 Check the full report [here](https://archidemi.github.io/tTest_StroopEffect/strooptest.html)
 
-***
 
 ### References:
 
